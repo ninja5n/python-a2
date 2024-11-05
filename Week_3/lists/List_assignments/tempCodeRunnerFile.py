@@ -1,0 +1,1 @@
+print(dv5(my_list))
